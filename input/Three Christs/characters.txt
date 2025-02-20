@@ -1,0 +1,20 @@
+Name: Milton Rokeach
+Description: A tall, lanky man with sharp features, wearing thick glasses that magnify his intense gaze. He has a receding hairline and often wears suits with a bow tie, giving him an air of scholarly elegance.
+Positive prompt: Full-body view of Milton Rokeach, 48 years old, a tall, lanky man with round face, sharp features, wearing thick round glasses that magnify his intense gaze. He has a receding hairline and often wears suits with a bow tie, giving him an air of scholarly elegance, usually dressed in suits with a bow tie, always neat and well-pressed. His clothing reflects his meticulous nature, even during long hours at the hospital. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, exaggerated proportions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions, half-body view
+---
+Name: Clyde Benson
+Description: A well shaped, broad-shouldered man with a full beard and long, unkempt hair. His eyes are fierce and intense, reflecting his unwavering belief in his divine mission.
+Positive prompt: Full-body view of Clyde Benson, 52 years old, a well-shaped, broad-shouldered man with a full beard and long, unkempt hair. His eyes are fierce and intense, reflecting his unwavering belief in his imaginary divine mission, wears simple, loose-fitting clothing like tunics or robes, often made from rough, natural fabrics. He favors earthy tones and prefers to go barefoot. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, exaggerated proportions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions, half-body view
+---
+Name: Joseph Cassel
+Description: A slender man with short, neat hair and a trimmed beard. His features are sharp and his eyes hold a certain cunning intelligence, reflecting his strategic mindset.
+Positive prompt: Full-body view of Joseph Cassel, 45 years old, a slender man with short, neat hair and a trimmed beard. His features are sharp and his eyes hold a certain cunning intelligence, reflecting his strategic mindset, wearing well-tailored but old suits in dark colors, often wearing a tie or pocket square to complete his half polished appearance. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, exaggerated proportions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions, half-body view
+---
+Name: Leon Gabor
+Description: A gaunt man with long, messy hair and a thin beard. His eyes are often downcast, reflecting his quiet, introspective nature.
+Positive prompt: Full-body view of Leon Gabor, 38 years old, a gaunt man with long, messy hair and a thin beard. His eyes are often downcast, reflecting his quiet, introspective nature, wearing simple, comfortable clothing like jeans and t-shirts. He often wears a worn jacket or coat that's seen better days. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, exaggerated proportions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions, half-body view
+---

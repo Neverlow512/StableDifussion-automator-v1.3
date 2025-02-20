@@ -1,0 +1,420 @@
+Name: Scene_001
+Positive prompt: Full-body view of Clyde Benson, 52, muscular with a full beard and intense gaze, holding his hands out like a blessing in a sterile white room. Joseph Cassel, 45, slender with sharp features, paces frantically in the same room, muttering prayers. Leon Gabor, 38, gaunt and withdrawn, huddles quietly in the corner whispering to himself. The rooms are stark and identical, reflecting their psychological isolation. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_002
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing in a stark, institutional hallway, staring at each other with disbelief and hostility etched on their faces. Tension fills the air like an invisible force, creating ripples around them. Milton Rokeach stands slightly apart, observing them through thick glasses that magnify his neutral expression. The hallway is bare, its cold walls reflecting the chill in the air. The lighting is harsh and unyielding, casting long, dramatic shadows. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_003
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing before three life-sized mirrors that reflect their images thrice, creating a disorienting labyrinth of reflections. Each man's expression mirrors his internal confusion: Clyde reaches out tentatively to touch his reflection; Joseph stands defiant, gesturing at his duplicates as if arguing with them; Leon recoils from his reflections, backing away with wide-eyed fear. Milton Rokeach observes from the side, his reflection distorted in the mirrors' uneven surfaces, his neutral expression belied by the tense set of his shoulders. The room is clinical and sterile, its bare walls and harsh fluorescent lighting amplifying the men's psychological discomfort. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_004
+Positive prompt: Full-body view of Clyde reaching out to bless a single loaf of bread on the table, his hand abruptly slapped away by Joseph who claims 'it's my bread'. Leon watches terrified, hands clasped under the table. Milton observes from the corner, glasses glinting in dim light. The room is stark and institutional, bare walls echoing their tense dynamics. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_005
+Positive prompt: Full-body view of Clyde kneeling over an imaginary patient, his hands glowing with divine energy while Joseph sits at a desk nearby, fervently writing letters to unseen leaders on crumpled paper that floats towards him like moths. Leon is hunched over intricate toilet paper roll models in the corner, his eyes reflecting the meticulousness of his creations. Milton watches them from afar, his reflection in his thick glasses distorting the chaotic scene around him. The walls of the institution are bare and cold, echoing the emptiness within each man's reality. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_006
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing tense and rigid around a small wooden cross hanging on a stark white wall. Each man reaches out, fingers splayed like claws, claiming the cross as 'his.' Their faces are contorted with rage, veins bulging at their temples, eyes burning with fervent madness. The room is bathed in harsh, unforgiving fluorescent light casting long, ominous shadows. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_007
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing firm on a wooden bench surrounded by lush greenery, each claiming the seat with fierce determination while Milton watches from afar, his reflection in his glasses mirroring the tense standoff. The once-peaceful garden now churns with psychological storm clouds, darkening the sky above as flowers wilt and trees twist into writhing serpents. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_008
+Positive prompt: Full-body view of Milton Rokeach hanging three crosses, their shadows stretching menacingly on the stark white walls of Ypsilanti State Hospital. Clyde Benson, Joseph Cassel, and Leon Gabor stand uncertainly in a loose triangle, eyes flicking between each other and the crosses, confusion and fear etched into their faces. The room is filled with a heavy silence, broken only by the soft echo of Rokeach's footsteps as he steps back, leaving the men to confront their doubt. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_009
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing in a circle, hands clasped, faces bathed in sunlight streaming through a barred window. Their expressions are disbelieving, eyes scanning the unfamiliar surroundings. The room is sterile yet warm, with stark white walls and a single, flickering light bulb hanging from the ceiling like a faint star. In the background, Milton Rokeach stands by an open door, his reflection in the glass distorted by thick glasses, symbolizing the psychological labyrinth they're navigating. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_010
+Positive prompt: Full-body view of Clyde, face red with anger, veins bulging on his neck, arms raised, fingers splayed like claws. Joseph stands nearby, eyes ablaze with fervor, hands clasped behind him in righteousness. Leon cowers in the corner, hands over ears, body curled into a protective ball. Milton watches from afar, expression neutral, through thick glasses that reflect the chaotic scene. The room is dimly lit, shadows dancing violently on the walls like demons. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_011
+Positive prompt: Full-body view of Clyde kneeling alone in his dimly lit room, hands clasped tightly together, head bowed in intense prayer. The room is sparse and claustrophobic, with peeling walls and a single bare bulb casting long, dramatic shadows. A faint glow from the window suggests dawn approaching, but the room remains shrouded in darkness. Nearby, Joseph sits at a small desk, hunched over a letter he's writing to himself as 'the Pope', his reflection in the windowpane showing a man lost in solitary communion. Meanwhile, Leon huddles inside an intricate fortress of bedsheets, his outline barely visible through the makeshift walls. The overall scene is one of isolation and retreat, with each figure engulfed in their own world of delusion. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_012
+Positive prompt: Full-body view of Leon Gabor, wild-eyed and disheveled, emerging from his fortress, arms flailing in rage, screaming silently. Behind him, a chaotic storm of shattered furniture and upturned books swirls like a vortex. Clyde Benson and Joseph Cassel watch in horror, faces contorted with fear and disbelief, frozen in time. The fortress walls bleed shadows, their once-solid lines now warped and twisted like reflections in a broken mirror. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Leon Gabor, Clyde Benson, Joseph Cassel
+---
+Name: Scene_013
+Positive prompt: Full-body view of Clyde, Joseph, and Leon seated around a table, hands folded neatly or resting limply, eyes downcast or meeting briefly before flicking away. The room is bathed in a cold, clinical fluorescent light, casting harsh shadows on their faces. A large grandfather clock stands sentinel in the corner, its pendulum swinging ominously as the seconds tick by. The table's surface reflects the tense silence, not a single crumb or stain to break up its sterile expanse. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_014
+Positive prompt: Full-body view of Clyde, his muscular frame tense, reaching out to touch Joseph's hand. Joseph, slender and well-dressed, looks up from his newspaper, meeting Clyde's fierce gaze. Leon, gaunt and downcast, tentatively reaches out to touch both their hands. Milton, tall and scholarly, watches from a distance, his neutral expression reflected in the sterile, fluorescent-lit hospital ward. The room is filled with an uncomfortable tension, like a storm about to break, metaphorically reflected in the flickering lights and stark shadows. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_015
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing in a circle, hands clasped, smiling at each other. Soft, peaceful light fills the room, casting gentle shadows on their faces. Milton Rokeach stands slightly apart, watching them with neutral expression. The atmosphere is serene, yet tinged with melancholy, like the calm before a storm. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_016
+Positive prompt: Full-body view of three figures, each alone in their beds under dim hospital lighting. Milton Rokeach, the psychologist, stands outside the ward, neutral expression behind thick glasses. Three men, Clyde Benson (muscular, bearded, intense), Joseph Cassel (slender, neat, cunning), and Leon Gabor (gaunt, introspective, downcast) lie in their beds, each believing themselves to be Jesus Christ. Their eyes reflect their individual delusions. The empty space between them mirrors the isolation of their shared reality. The ward's stark walls and cold, metallic fixtures amplify the scene's psychological tension. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_017
+Positive prompt: Full-body view of Clyde, Joseph, and Leon facing each other, confusion and hostility in their eyes, reflecting in the mirror-like shine of their identical crucifixes suspended around their necks. They're dressed alike in simple robes, standing on a cracked, desolate ground under a stormy sky filled with dark, swirling clouds. Milton Rokeach stands off to the side, his back turned, oblivious to the brewing conflict, his reflection warped and distorted in the broken glass around them. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_018
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor standing in a tight cluster before a large hospital window at dusk. Each man gazes intently into the reflection, seeing not himself but another Christ staring back, multiplied infinitely by their own image. The reflections warp and distort, creating a maze of Christs that seem to stretch on forever. Milton's reflection is magnified through his glasses, Clyde's reflection has a fierce intensity in its eyes, Joseph's reflection holds a cunning intelligence, and Leon's reflection appears downcast. Behind them, the hospital ward is chaotic but silent, patients lying in bed with vacant stares, nurses rushing past in a blur of activity. The room is bathed in an eerie twilight glow, casting long, ominous shadows that seem to reach out like grasping hands. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_019
+Positive prompt: Full-body view of Milton Rokeach, dressed in a pristine suit and bow tie, sitting at a dimly lit dinner table with Clyde Benson, Joseph Cassel, and Leon Gabor - all claiming to be Jesus Christ. Bread lies torn on their plates, untouched wine glasses reflect the flickering candlelight, as they stare intensely at each other, suspicion palpable like the shadows cast by the single, crooked candle. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_020
+Positive prompt: Full-body view of Milton Rokeach, tall and lanky, wearing a meticulous suit and bow tie, standing amidst three men who believe themselves to be Jesus Christ - Clyde Benson in earthy robes, Joseph Cassel in a polished dark suit, and Leon Gabor in worn jeans and jacket. They're locked in intense debate, reflected in the glass window of their hospital room. Outside, a crowd of staff and patients gather, watching with silent fascination, their faces a mix of curiosity and concern. The scene is cast in muted tones, with shadows stretching ominously across the walls, reflecting the psychological tension within. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_021
+Positive prompt: Full-body view of Clyde Benson, muscular and barefoot, standing on a chair, arms outstretched like a preacher, eyes fierce with belief. Below him, Joseph Cassel and Leon Gabor sit defiant, arms crossed, eyes narrowed in disbelief. Milton Rokeach stands slightly apart, observing with neutral expression, notebook in hand. A single lightbulb casts stark shadows, illuminating the tense dynamics. Dark, gritty comic book-style illustration. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_022
+Positive prompt: Full-body view of Leon Gabor, a gaunt man with long messy hair and downcast eyes, huddled in the corner of a dimly lit hospital room. Surrounded by makeshift offerings crafted from hospital supplies - bandages forming crosses, IV stands bent into crowns of thorns - he whispers to himself in Aramaic. The offerings cast eerie shadows on the cold, institutional walls, reflecting his inner turmoil. The other patients and staff are distant figures, barely visible through the gloom, their forms blurred by the dim lighting, emphasizing Leon's isolation. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Leon Gabor
+---
+Name: Scene_023
+Positive prompt: Full-body view of Joseph Cassel, age 45, slender with short neat hair and trimmed beard, wearing a dark suit, sitting on his bed, a makeshift crown of thorns around his head, staring at Clyde Benson and Leon Gabor with fiery eyes. Clyde, muscular and broad-shouldered in a loose earthy robe, stands facing Joseph, arms folded, his fierce gaze locked onto Joseph's. Leon, gaunt and introspective in simple clothing, sits hunched on the floor, head downcast, fingers tracing patterns on the cold tile. The room is stark and bare, dimly lit by a single flickering bulb, casting long ominous shadows that reflect Joseph's judgmental state. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Joseph Cassel, Clyde Benson, Leon Gabor
+---
+Name: Scene_024
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor standing in a tense circle. Each man's hands are clasped tightly, knuckles white, gripping an unseen force. Milton's intense gaze is fixed ahead, while the three Christs stare defiantly at each other, their expressions neutral yet filled with unspoken tension. They're surrounded by a dimly lit, sterile hospital ward, with stark white walls closing in like a fortress under siege. The air feels heavy with impending conflict, as if the very atmosphere is holding its breath. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_025
+Positive prompt: Full-body view of Milton Rokeach, age 48, tall and lanky with sharp features magnified by thick glasses, rubbing his temples in a gesture of growing doubt. He sits at a cluttered desk piled high with files and letters from concerned colleagues, shadows cast by the dim lamplight emphasizing the dark circles under his eyes. The room is filled with stacks of books and papers, reflecting the mental clutter weighing on him, while outside the window, storm clouds gather, mirroring his psychological turmoil. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
+Name: Scene_026
+Positive prompt: Full-body view of Clyde Benson, dressed in a loose robe, standing alone in an otherwise empty room. He gazes at his reflection in a large, ornate mirror, his fierce eyes flickering with doubt. The room is bare except for the mirror and a single, flickering candle on the floor, casting long, dancing shadows that reflect Clyde's inner turmoil. The walls are stark white, echoing the psychological blank slate Milton Rokeach aims to create. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson
+---
+Name: Scene_027
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor standing back-to-back in a dimly lit, claustrophobic room. Each man is depicted as if crucified, arms outstretched, heads thrown back in silent screams. Their shadows dance grotesquely on the peeling walls, painted with eerie, abstract symbols reflecting their fractured minds. The air is heavy with tension and despair, visible in the creases of their clothing and the veins popping from their necks. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_028
+Positive prompt: Full-body view of Clyde Benson, aged 52, muscular and broad-shouldered, wearing a simple tunic, sitting alone in his dimly lit room at night. A single beam of moonlight casts an eerie glow on him as he plays with a small toy soldier, smiling softly. The room is sparsely furnished, reflecting his minimalistic lifestyle. The shadows seem to dance around him, mirroring his inner turmoil yet finding solace in this simple act. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson
+---
+Name: Scene_029
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor sitting in a circle on worn, mismatched chairs, each lost in thought, eyes glazed over as if looking into distant worlds. Their bodies are still, hands resting lightly on their laps or knees, yet an undercurrent of tension ripples through the scene like heat haze. The room is bare, institutional, with peeling walls and a single flickering light bulb casting elongated shadows that dance eerily. A sense of shared madness permeates the air, symbolized by three identical, tattered posters of Jesus Christ tacked haphazardly on the walls, one for each man. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_030
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor sleeping in their hospital beds at night. Ghostly apparitions of each man's personal Christ-like symbolism swirl around them, reflecting their shared delusions. The ward is bathed in an eerie, neon glow, casting long shadows that seem to reach out like grasping hands. The environment feels oppressive and claustrophobic, with peeling walls and a sense of containment mirroring the psychological imprisonment of its inhabitants. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_031
+Positive prompt: Full-body view of three men lying on hospital beds, arms outstretched like Christ on the cross, eyes closed in peaceful delusion. Each man's face is a portrait of conviction, their expressions serene yet intense. They are surrounded by sterile white walls and machines that hum with an eerie life of their own, reflecting their trapped psychological states. Milton Rokeach, the psychologist conducting the experiment, stands silently observing, his neutral expression magnified behind thick glasses. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_032
+Positive prompt: Full-body view of Clyde Benson, 52, muscular with a fierce gaze and finger pointed at Joseph Cassel's chest. Joseph trembles, eyes wide. They stand inches apart in a dim, sterile hospital ward, surrounded by empty beds and harsh fluorescent lights flickering like anxious breaths. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel
+---
+Name: Scene_033
+Positive prompt: Full-body view of Milton Rokeach, age 48, tall and lanky with a stoic expression, wearing a suit and bow tie, sitting in a dimly lit observation room. His reflection is visible on the one-way mirror, magnified eyes noting down observations in his journal. Behind him, three figures dressed as Jesus Christ argue fervently, shadows dancing chaotically across their faces, mirroring their inner turmoil. The environment is cloaked in muted blues and grays, reflecting the psychological tension within. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_034
+Positive prompt: Full-body view of Milton Rokeach, dressed in a neat suit and bow tie, sitting at the head of a cafeteria table set for three. Three identical meals untouched before him. Clyde Benson, muscular and intense, sits to his left, head bowed, hands clasped in prayer. Joseph Cassel, poised and polished in a dark suit, mirrors Clyde's pose on Milton's right. Leon Gabor, gaunt and introspective, sits at the far end, his eyes downcast as if lost in thought. The table is bathed in an eerie, dim light, casting long shadows that hint at the psychological isolation each man feels despite their proximity. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_035
+Positive prompt: Full-body view of Milton Rokeach, age 48, tall and lanky with sharp features and intense gaze behind thick glasses, dressed in scrubs, slipping a folded letter under Clyde Benson's pillow. Clyde, age 52, muscular and broad-shouldered with fierce eyes, lies asleep on the bed, surrounded by shadows that creep along the worn walls of the hospital ward. The letter unfolds like a serpent, its inked words slithering towards Clyde as Rokeach steps back into the darkness, his neutral expression unreadable. The air is heavy with tension, reflected in the dim, flickering lights and the peeling paint, as doubt begins to take root in the stagnant environment. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson
+---
+Name: Scene_036
+Positive prompt: Full-body view of Clyde Benson, 52, muscular and intense, lying on a bare, metal-framed bed in loose robes. He scans a typed letter clutched in his large, calloused hands, his expression flickering from confusion to understanding to resolve. The letter is crumpled at the edges, reflecting Clyde's inner turmoil. The room is dimly lit by a single, harsh fluorescent light, casting long, ominous shadows that echo Clyde's impending decision. The walls are bare and stark white, accentuating the isolation of the moment. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson
+---
+Name: Scene_037
+Positive prompt: Full-body view of Clyde, Joseph, and Leon standing on a desolate hospital courtyard stage, each performing dramatic 'miracles' with intense expressions, trying to outdo one another under a somber, stormy sky. Milton Rokeach observes from the side, his reflection in his thick glasses mirroring the chaotic scene. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_038
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, and Joseph Cassel standing in a crowded ward, arms crossed, glaring at each other. Surrounding them, patients watch with fascinated unease, some covering their mouths in shock or whispering behind hands. The ward is dimly lit, filled with outdated furniture and peeling walls, reflecting the tension and claustrophobia of the situation. Milton's suit is rumpled, Clyde's tunic has a small tear, and Joseph's tie is askew, betraying their inner turmoil despite their stiff postures. Leon Gabor stands apart, head bowed, hands clasped in front, seemingly lost in his thoughts. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_039
+Positive prompt: Full-body view of Milton Rokeach, a tall man with sharp features and thick glasses, standing over Clyde Benson who lies on the floor, arms spread wide like Christ on the cross. Joseph Cassel and Leon Gabor stand nearby, their faces illuminated by flickering candlelight, shadows dancing across their neutral expressions. The room is dark, filled with eerie stillness and heavy shadows that reflect the tense psychological atmosphere. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_040
+Positive prompt: Full-body view of Clyde Benson, age 52, muscular build with long hair and a full beard, head in hands, seated alone on a wooden chair in the center of a dimly lit room. A single beam of light from a high window illuminates his face, casting dramatic shadows that exaggerate his anguished expression. The room is spartan, with peeling walls and minimal furniture, reflecting Clyde's inner turmoil. Behind him, three shadowy figures - Milton Rokeach, Joseph Cassel, and Leon Gabor - stand observing, their expressions neutral but bodies tense with anticipation. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Milton Rokeach, Joseph Cassel, Leon Gabor
+---
+Name: Scene_041
+Positive prompt: Full-body view of Leon Gabor, face flushed with rage, hands gesturing wildly like a storm in motion. Milton Rokeach sits calmly across the desk, his intense gaze magnified by thick glasses, unmoved by Leon's fury. The room is dimly lit, filled with tension that crackles like lightning, metaphorically embodied by chaotic scribbles on the chalkboard behind them. The clock's hands seem frozen, as time itself holds its breath in this charged psychological standoff. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Leon Gabor
+---
+Name: Scene_042
+Positive prompt: Full-body view of Clyde, Joseph, and Leon facing each other, their faces contorted with rage and desperation, veins bulging like tangled roots. Milton stands apart, observing like a neutral force field amidst the emotional storm. Shadows cast by harsh fluorescent lights stretch ominously across the sterile dayroom, reflecting the psychological tension. The scene is a visual metaphor of clashing currents, with each man's belief system acting as an immovable boulder in a raging river. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_043
+Positive prompt: Full-body view of Milton Rokeach, standing amidst shattered mirrors and overturned furniture, turning away from the camera, shoulders slumped in defeat. Clyde Benson huddles in a corner, eyes closed, hands pressed against his ears, lost in his delusion. Joseph Cassel sits on the floor, surrounded by torn papers, methodically sorting them into piles, his gaze focused inward. Leon Gabor lies prone on an upturned couch, his body convulsing as if in a fit of ecstasy. The room is bathed in harsh, flickering light, casting stark shadows that emphasize the chaos and disarray. The men are oblivious to each other, each lost in their own worlds, reflecting the psychological slip from reality. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_044
+Positive prompt: Full-body view of Milton Rokeach, age 48, tall and lanky with sharp features, wearing a neat suit and bow tie, head bowed in remorse or relief. He sits alone on a bench in a serene chapel filled with soft light, stained-glass windows casting colored shadows that dance on the polished floor. The room is empty save for Rokeach, reflecting his isolation in this moment of introspection. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
+Name: Scene_045
+Positive prompt: Full-body view of Clyde, Joseph, and Leon walking down a sterile hospital corridor. Clyde strides confidently, Joseph wrings his hands anxiously, Leon drags his feet withdrawnly. Overhead fluorescent lights flicker ominously, casting long, dramatic shadows. The once-white walls are now faded and peeling, reflecting the institutional decay. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_046
+Positive prompt: Full-body view of Clyde smirking, Joseph scowling, Leon staring blankly across a communal ward filled with stark, barren tables and chairs, their eyes locked in tense rivalry under cold fluorescent lights. The room is painted in muted, desaturated tones, reflecting the psychological tension. Milton Rokeach observes from the shadows, his expression neutral behind thick glasses. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_047
+Positive prompt: Full-body view of Clyde Benson, a muscular man with long hair and intense eyes, curled up on a bare mattress, hands over his ears, face wet with tears. Close-up shots reveal Joseph Cassel and Leon Gabor watching from their beds, expressions mixed with concern and confusion. The room is dimly lit, with peeling walls and sparse furniture, reflecting Clyde's inner turmoil. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_048
+Positive prompt: Full-body view of Joseph Cassel, age 45, slender with short hair and a trimmed beard, huddled in the corner of a dimly lit room. His eyes dart nervously between shadowy corners, reflecting his paranoia that grows like ivy around him, metaphorically illustrated as tendrils of darkness creeping up his body. The room is bare and cold, echoing Joseph's psychological state. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Joseph Cassel
+---
+Name: Scene_049
+Positive prompt: Full-body view of Leon Gabor, aged 38, gaunt with long messy hair and downcast eyes, sitting alone at a table in an empty room. His hands are feverishly scribbling in a journal, the rest of the room fading into a blur of monochromatic chaos. The table appears anchored to his chair while the surrounding furniture floats away into the void. His expression is blank, eyes distant and glazed over. The atmosphere is heavy with isolation and despair. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Leon Gabor
+---
+Name: Scene_050
+Positive prompt: Full-body view of Clyde Benson, age 52, a muscular man with long hair and fierce eyes, towering over Joseph Cassel, age 45, who cowers defensively with his arms raised. Clyde's finger points accusatorily at Joseph, his face contorted in anger. The room darkens around them, the walls seeming to close in, reflecting the tension between them. In the background, Milton Rokeach observes, his expression neutral, hands clasped behind his back. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Milton Rokeach
+---
+Name: Scene_051
+Positive prompt: Full-body view of Leon Gabor hunched over his journal, pen scratching furiously across dense pages under a solitary, flickering light. His face is obscured by deep shadows that reflect his inner turmoil. The rest of the room is swallowed in darkness, while his journal glows like a beacon of his obsessive thoughts. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Leon Gabor
+---
+Name: Scene_052
+Positive prompt: Full-body view of Clyde and Joseph standing inches apart, faces locked in intense argument, hands gesturing wildly like clashing waves. Leon sits distant on the floor, knees hugged to chest, head downcast like a wilted flower amidst scattered papers and upturned chairs, symbolizing chaos and inner turmoil. Milton watches from the periphery, eyes magnified behind thick glasses, reflecting neutrality but tension in the air is palpable. Environmental details: harsh fluorescent lights flicker intermittently, casting long shadows that dance ominously on the peeling walls, mirroring the psychological battle unfolding. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_053
+Positive prompt: Full-body view of Milton Rokeach, age 48, tall and lanky with a neutral expression behind thick glasses, sitting at a desk in a dimly lit observation room. He's meticulously jotting notes on a clipboard, surrounded by the flickering glow of old monitors displaying three men through one-way glass. The men, Clyde Benson, Joseph Cassel, and Leon Gabor, each believing themselves to be Jesus Christ, are gathered in the stark, sterile ward outside, their actions and expressions reflecting their individual psychoses. The observation room is a claustrophobic blend of cold metal and outdated technology, casting long, ominous shadows that reflect Rokeach's clinical detachment. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_054
+Positive prompt: Full-body view of Clyde, Joseph, and Leon walking down a sterile, dimly lit hospital corridor, each one isolated in their own shadows. They pass each other without acknowledgment, as if unseen, creating visual echoes of empty spaces between them. The walls are bare and institutional, reflecting the psychological isolation and echoing Milton Rokeach's neutral expression from his office doorway. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_055
+Positive prompt: Full-body view of Clyde Benson, a muscular man with long hair and fierce eyes, standing before a mirror in a dimly lit room. His reflection flickers like a broken transmission, challenging his unyielding belief. The room's walls seem to close in, adorned with distorted, ghostly reflections. Behind him, shadows shift uneasily, echoing his inner turmoil. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson
+---
+Name: Scene_056
+Positive prompt: Full-body view of Joseph Cassel, a slender man with sharp features and neatly groomed hair, dressed in a dark suit, reaching out tentatively towards Clyde Benson and Leon Gabor who stand before him. Clyde is muscular, bearded, and intense, while Leon is gaunt, downcast-eyed, and wearing worn clothing. Joseph's expression softens as he looks at them, uncertainty reflected in his mid-air hand gesture. Behind them, the dimly lit institutional room is stark and bare, mirroring their psychological isolation. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Joseph Cassel, Clyde Benson, Leon Gabor
+---
+Name: Scene_057
+Positive prompt: Full-body view of Leon Gabor kneeling on the floor, head in hands, surrounded by a swirling chaos of light and dark. The room's walls and ceiling are blurred and abstract, reflecting his inner turmoil. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Leon Gabor
+---
+Name: Scene_058
+Positive prompt: Full-body view of Milton Rokeach, standing rigidly at a whiteboard filled with crossed-out theories, his intense gaze magnified by thick glasses, reflecting defiance despite evident failure. To his left, Clyde Benson leans forward eagerly in his chair, hands clasped, eyes hopeful like burning embers. To his right, Joseph Cassel sits back with arms crossed, jaw set, eyes defiant. Farther away, Leon Gabor is hunched over, distant and withdrawn, his reflection barely visible through the foggy window behind him. The room's bare walls are adorned only by a solitary, dying plant, mirroring the bleak atmosphere of Rokeach's failed experiment. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_059
+Positive prompt: Full-body view of Clyde, Joseph, and Leon, each isolated in a separate room at Ypsilanti State Hospital. Clyde is on his knees, tears streaming down his beard, hands clasped as if in prayer. Joseph stands defiantly, arms crossed, arguing with an invisible opponent. Leon sits hunched over a notebook, pen moving furiously, lost in thought. Behind them, date stamps fade into black like entries in a ledger. The rooms are stark and sterile, with bare walls and dim lighting, reflecting the psychological distress of their inhabitants. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_060
+Positive prompt: Full-body view of three men standing alone in sterile hospital rooms, each dressed in identical white gowns, facing closed doors with eyes filled with hope and anticipation. Fluorescent lights flicker overhead, casting long, dramatic shadows that stretch like bars of a prison. A psychologist, Milton Rokeach, watches unseen from a nearby window, his neutral expression reflected in the glass. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_061
+Positive prompt: Full-body view of Clyde, Joseph, and Leon facing each other in a stark, empty room. Hands clasped behind their backs, eyes burning with conviction, body language rigid. Their postures mirror inner turmoil. The room is bare, cold, and void of color, reflecting the psychological tension. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_062
+Positive prompt: Full-body view of Milton Rokeach, tall and lanky with a neutral expression behind thick glasses, standing motionless before a one-way mirror in a dimly lit observation room filled with humming equipment. His barely visible reflection on the dark window is fractured by the three figures beyond - Clyde Benson, Joseph Cassel, and Leon Gabor, all believing themselves to be Jesus Christ, standing amidst sparse, cold furniture, their shadows stretching long and distorted under harsh, clinical lighting. The men's eyes reflect madness, intelligence, and quiet despair, each interacting with the others in a tense, uneasy dance, mirroring Rokeach's theories of broken minds reflected back at him. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_063
+Positive prompt: Full-body view of Milton Rokeach, dressed in a neat suit and bow tie, observing three men in white gowns reaching out towards each other then pulling back, confusion etched on their faces. They stand amidst a swirling vortex of echoing whispers, 'I am Christ', in a vast, empty room with stark, cold walls reflecting the psychological turmoil within. The men's outstretched hands form intricate patterns, like roots clawing at the air, as they struggle to reconcile their delusions. Milton's neutral expression contrasts with the emotional turmoil around him, his reflection visible on the polished floor that mirrors the chaos above. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_064
+Positive prompt: Full-body view of Milton Rokeach, tall and lanky in his neat suit and bow tie, glasses reflecting shattered mirror fragments as he stands amidst a storm of white cloth and debris. Clyde Benson, muscular with fierce eyes, huddles amidst wreckage, hands pressed against ears, along with Joseph Cassel and Leon Gabor, all wearing expressions of fear and disbelief. Torn books lie scattered on the floor. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_065
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, and Joseph Cassel sitting hunched over in their respective dimly lit rooms. They rock gently, hands clasped around their knees, eyes fixed on invisible horizons. Their faces are illuminated by the flickering light of single bulbs, casting long shadows that seem to entangle them. The walls are bare and painted a cold, institutional white, mirroring the isolation of their worlds. In Milton's room, books are piled high, reflecting his desperate search for answers. Clyde's room is adorned with simple, handmade crosses, each one a testament to his unwavering faith. Joseph's room contains a chessboard, pieces arranged in complex strategies that reflect his strategic mindset. The air is thick with tension, the silence broken only by the soft rocking of their chairs and the ticking of distant clocks. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel
+---
+Name: Scene_066
+Positive prompt: Full-body view of Milton Rokeach, hands planted firmly on a polished wooden table, his reflection visible and distorted like shattered glass. Behind him, three men sit in shadows cast by a dim overhead light, faces etched with betrayal and confusion, bodies tensed as if trapped in an invisible struggle. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_067
+Positive prompt: Full-body view of Milton Rokeach, age 48, hunched over his desk, head cradled in his hands, wearing a rumpled suit and bow tie, surrounded by scattered papers and empty coffee cups. Soft late-afternoon glow casting long shadows, reflecting his inner turmoil. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
+Name: Scene_068
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor walking side by side down a sunlit corridor. Each man's face is serene, hands clasped behind their backs. A single beam of light illuminates their path, casting gentle shadows on the polished floor. The men are bathed in a warm, golden hue, reflecting an uneasy calm that pervades the scene. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_069
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor standing at a vast, transparent wall. They reach out, palms pressing against the barrier, eyes filled with longing and frustration. Behind them, the hospital corridor stretches out, dimly lit with flickering fluorescent lights casting eerie shadows on the cold, sterile walls. The wall itself is a visual metaphor for their internal struggle, clear yet intangible, reflecting their isolated psyches. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_070
+Positive prompt: Full-body view of Milton Rokeach, a tall, lanky man with sharp features and thick glasses, sitting quietly among Clyde Benson, Joseph Cassel, and Leon Gabor in a cozy, lamp-lit room. The men are engaged in introspective conversation, laughter softly echoing off the worn walls adorned with faint, abstract figures reflecting their fractured realities. Rokeach's notebook lies open on his lap, pen poised but untouched, symbolizing his newfound understanding rather than change. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_071
+Positive prompt: Full-body view of Milton Rokeach, 48, tall and lanky with sharp features, wearing a rain-soaked suit and bow tie, head bowed against the wind, hands clutching his coat collar. He stands alone in a dark, stormy courtyard, surrounded by empty benches shrouded in mist. Doubt is visualized as a heavy, black cloak around him, its hood hiding his face. The storm reflects his turmoil, lightning cracking like internal doubts, rain pelting like accusations against his ability to help his patients. The hospital looms behind him, its lights flickering ominously. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
+Name: Scene_072
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor sitting alone in a bare, empty room. Each man faces away from the others, hands folded neatly in their laps. Their reflections ripple across the polished floor, distorted and fragmented, mirroring their inner turmoil as reality sets in. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_073
+Positive prompt: Full-body view of Milton Rokeach, a tall man with sharp features and thick glasses, dressed in a neat suit and bow tie, shaking hands with each of the three men who believe they are Jesus Christ: Clyde Benson (muscular, full beard), Joseph Cassel (slender, well-dressed), and Leon Gabor (gaunt, downcast eyes). The men stand solemnly, their gazes locked with Rokeach's for a moment longer than necessary before he turns away. Sunlight streams through the corridor windows, casting long shadows that reflect the gravity of the emotional goodbye. The corridor is stark and clinical, its bare walls echoing the isolation and introspection of the men left behind. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_074
+Positive prompt: Full-body view of Milton Rokeach, aged 65, tall and gaunt with a receding hairline, wearing a rumpled suit and bow tie, clutching a faded photograph in his trembling hands. He sits alone in his dimly lit study, shadows dancing on the walls like restless memories. The room is filled with the soft hum of an old clock, its hands frozen in time. A single beam of moonlight slices through the darkness, illuminating Rokeach's haunted expression as he reflects on his past experiment. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
+Name: Scene_075
+Positive prompt: Full-body view of Clyde sitting alone on his bare bed, eyes empty and distant, murmuring silent prayers to himself in a cold fluorescent-lit room devoid of personal touches, except for a small cross hanging lopsidedly on the wall. Joseph lies prone nearby, twitching limbs splaying religious texts like fallen leaves around him. Leon stands rigid at the window, staring out into the bleak courtyard where shadows stretch long and melancholic, as if trapped in their own private prisons of delusion. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_076
+Positive prompt: Full-body view of Milton Rokeach standing by a stark white door, observing. Clyde enters first, falling to his knees in disbelief, hands clutching his tunic. Joseph storms in behind him, shouting, arms raised in defiance. Leon walks in calmly, smiling, hands in pockets. The room is bare, clinical, reflecting the psychological tension and struggle for identity. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_077
+Positive prompt: Full-body view of Clyde, Joseph, and Leon facing three mirrors, each seeing their reflection as Jesus Christ. Clyde's fierce eyes meet his reflection; Joseph gestures authoritatively at his doppelganger; Leon hangs his head, hands clasped. Mirrors frame them like a triptych, echoing their shared delusion. Shadows lengthen, warping reflections into twisted, grotesque faces. Overlapping voices resonate in the stark, sterile room, amplifying their madness. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_078
+Positive prompt: Full-body view of Milton Rokeach, a tall man with sharp features and intense gaze behind thick glasses, silhouetted against a bright window, watching Clyde Benson, Joseph Cassel, and Leon Gabor struggle to nail crude crosses together in the dimly lit room filled with shadows. Clyde and Joseph cry out in pain and protest while Leon works silently, methodically. The room is claustrophobic, reflecting the psychological tension. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_079
+Positive prompt: Full-body view of Milton Rokeach, Clyde Benson, Joseph Cassel, and Leon Gabor lying on their beds in a row, arms outstretched like crucifixes. Soft light bathes the room, with a single beam of sunlight illuminating each man briefly before moving on, casting long shadows that dance and shift like restless spirits. Their eyes are closed, yet their expressions convey a mix of serenity, intensity, and quiet desperation. The hospital room is stark and clinical, with peeling paint and bare walls that seem to echo the men's psychological isolation. comic book-style illustration with a dark, gritty, realistic vibe. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_080
+Positive prompt: Full-body view of Clyde, Joseph, and Leon, all believing themselves to be Jesus Christ, standing on separate platforms in a crowded room, preaching simultaneously with intense expressions, hands gesturing wildly. The crowd is divided: some laugh, others cover their ears or look uncomfortable. Dr. Rokeach observes from the corner, his neutral expression magnified by thick glasses. The room is chaotic, with visitors pushing through, coats of many colors contrasting with the drab institutional walls. Light streams in through high windows, casting long, dramatic shadows across the scene. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor, Milton Rokeach
+---
+Name: Scene_081
+Positive prompt: Full-body view of Clyde and Joseph glaring at Leon, who sits calmly eating. Dr. Rokeach watches from the shadows, his reflection in a shattered mirror showing an inscrutable expression. The table is set with an unfinished meal, vegetables wilting under cold, harsh light. Behind them, other patients huddle together, their faces obscured by shadows and flickering candlelight. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_082
+Positive prompt: Full-body view of Clyde, a muscular man with wild hair and beard, huddled in the corner of a dark, shattered room filled with remnants of religious symbols. He rocks back and forth, whispering to himself. Joseph, slender with neat features, lies on the floor convulse, eyes wide with fear. Leon stands alone in the center, head bowed, tears streaming down his face, lost in despair. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_083
+Positive prompt: Full-body view of three identical rooms filled with shadows, each containing one of the Christs standing alone in their delusion. Their faces are partially obscured by darkness, reflecting inner turmoil. Milton Rokeach watches from a distance, neutral expression, wearing his usual suit and bow tie. Each room is sparsely furnished, mirrors reflecting endless shadows, echoing the psychological isolation. The rooms are connected by dimly lit corridors filled with an oppressive silence, interrupted only by the distant echoes of solitary footsteps. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach, Clyde Benson, Joseph Cassel, Leon Gabor
+---
+Name: Scene_084
+Positive prompt: Full-body view of Milton Rokeach, tall and lankly, dressed in a pristine suit with a bow tie, standing alone amidst an empty room filled with echoes. A single beam of sunlight illuminates the dust motes dancing in the air, while the shadows of three crosses linger on the walls behind him. His hands are raised in disbelief, magnified glasses reflecting the silent testimony lost to time. The room is bathed in a haunting silence, conveying the psychological weight of what became of them. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated expressions, bright colors, unrealistic poses, inconsistent lighting, text, blurry details, distorted proportions
+Characters: Milton Rokeach
+---
