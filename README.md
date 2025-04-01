@@ -57,7 +57,7 @@ cd StableDiffusion-Automator-v1.3
 pip install -r requirements.txt
 ```
 
-### Setup Configuration
+### Setup Configuration (RUNNING THE SETUP.PY SHOULD DEPLOY ALL OF THE FILES YOU NEED AND THE FOLDER STRUCTURE AUTOMATICALLY)
 
 Modify the `config.json` and `stable_diffusion_options.json` in the `settings/` folder to match your requirements.
 
